@@ -1,7 +1,7 @@
 
 <br>
 
-<p align="center"><img width="300" src="/profile/Cvoer.png" alt="LQG Logo"></p>
+<p align="center"><img width="1200" src="/profile/Cvoer.png" alt="LQG Logo"></p>
 
 <br>
 
